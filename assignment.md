@@ -12,7 +12,7 @@ Welcome to the 4th Miniproject. We will, once again, practice supervised learnin
 
 ## Tasks
 1. complete the instructions in the [Project Notebook](notebooks/instructions.ipynb)
-2. fill our your [README](README.md) with:
+2. fill out your [README](README.md) with:
     - a brief description of the project and its goals (2-3 sentences)
     - your hypothesis generation
     - a description of what you found while exploring the dataset
